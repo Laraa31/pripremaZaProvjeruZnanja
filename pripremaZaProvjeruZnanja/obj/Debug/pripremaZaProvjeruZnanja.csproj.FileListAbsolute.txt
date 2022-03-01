@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\bin\Debug\pripremaZaProvjeruZnanja.exe.config
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\bin\Debug\pripremaZaProvjeruZnanja.exe
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\bin\Debug\pripremaZaProvjeruZnanja.pdb
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.Form1.resources
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.Properties.Resources.resources
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.exe
+C:\Users\ucenik\source\repos\pripremaZaProvjeruZnanja\obj\Debug\pripremaZaProvjeruZnanja.pdb
